@@ -28,6 +28,14 @@ export default function Footer() {
           oldtownjail.co.uk
         </a>
       </p>
+      <p style={{ marginTop: '8px' }}>
+        <a
+          href="mailto:hola@StirlingEnEspanol.com"
+          style={{ color: '#c8922a', textDecoration: 'none' }}
+        >
+          hola@StirlingEnEspanol.com
+        </a>
+      </p>
       <p style={{ marginTop: '20px', color: '#4a3f2e', fontSize: '13px' }}>
         Parte de Dot Dash Holdings &middot; &copy; 2026
       </p>
