@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/geoffmorrison/Desktop/**)",
+      "Bash(npx create-next-app@latest stirling-tour-espanol --typescript --tailwind --app --no-src-dir --eslint --no-import-alias)"
+    ]
+  }
+}
