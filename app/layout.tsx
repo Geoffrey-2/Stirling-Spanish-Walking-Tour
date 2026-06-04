@@ -19,9 +19,9 @@ const ebGaramond = EB_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: 'Tour a Pie en Español — Auld Stirling Punishments | Old Town Jail',
+  title: 'Tour a Pie en Español por el Casco Antiguo de Stirling | Auld Stirling Punishments',
   description:
-    'Explora el lado más oscuro de Stirling en este exclusivo tour guiado en español. Crimen, castigo y escándalo en el Casco Antiguo. Viernes a lunes, 13:45.',
+    'Tour a pie guiado en español por el Casco Antiguo de Stirling. Descubre cinco siglos de crimen, castigo y escándalo en sus calles medievales. Viernes a lunes, 13:45.',
 }
 
 export default function RootLayout({
